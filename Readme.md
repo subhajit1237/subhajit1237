@@ -2,8 +2,8 @@
   <img src="./Banner_small.png" alt="Header" style="height: 500px, width: 700px"/>
 </a>
 
-### Hello There , I'm Subhajit <img src="./GOWK.png" style="width: 30px;"/>
-### Also known as Hawt Sauce <img src="./dance.gif" style="width: 30px;"/>
+### Hello There , I'm Subhajit <img src="./GOWK.png" style="width: 40px;"/>
+### Also known as Hawt Sauce <img src="./dance.gif" style="width: 100px;"/>
 
 <p align="center">
   My name is Subhajit and I like to create.
