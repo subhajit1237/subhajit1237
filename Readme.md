@@ -5,7 +5,7 @@
 ### Hello There , I'm Subhajit <img src="./GOWK.png" style="width: 90px;"/>
 ### Also known as Hawt Sauce 
 <br />
-<img src="./dance.gif" style="width: 400px; margin-left:20px"/>
+<img src="./dance.gif" style="width: 400px; margin-left:auto; margin-right:auto; display:block"/>
 
 <p align="center">
   My name is Subhajit and I like to create.
