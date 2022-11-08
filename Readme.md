@@ -2,13 +2,13 @@
   <img src="./Banner_small.png" alt="Header" style="height: 500px, width: 700px"/>
 </a>
 
-### Hello There , I'm Subhajit <img src="./GOWK.png" style="width: 90px;"/>
-### Also known as Hawt Sauce 
+<p align="center"> Hello There , I'm Subhajit <img src="./GOWK.png" style="width: 90px;"/> </p>
+<p align="center"> Also known as Hawt Sauce </p>
 <br />
 <p align="center"><img src="./dance.gif" style="display:block; width: 400px; margin-left:auto; margin-right:auto;"/></p>
 
 <p align="center">
-  My name is Subhajit and I like to create.
+  My name is Saucey and I like to game.
   <br /> 
 </p>
 
