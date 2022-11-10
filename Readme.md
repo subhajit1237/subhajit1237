@@ -8,7 +8,7 @@
 <p align="center"><img src="./dance.gif" style="display:block; width: 400px; margin-left:auto; margin-right:auto;"/></p>
 
 <p align="center">
-  My name is Saucey and I like to game.
+  My name is Saucey and I like to play around.
   <br /> 
 </p>
 
