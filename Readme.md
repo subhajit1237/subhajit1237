@@ -10,6 +10,10 @@
 <p align="center">
   My name is Saucey and I like to play around.
   <br /> 
+<br />
+	<br />
+<a href="https://www.linkedin.com/in/subhajit-das-827b5a200/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="subhajit-das-827b5a200" height="50" width="60" /></a>
+<a href="https://www.instagram.com/subha.it/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2017/02/Instagram-Logo.png" alt="subha.it" height="50" width="80" /></a>
 </p>
 
 ## &#x1f4c8; Contribution Graph
