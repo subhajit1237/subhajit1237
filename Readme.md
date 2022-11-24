@@ -1,5 +1,5 @@
 <a href="https://github.com/subhajit1237">
-  <img src="./Banner_small.png" alt="Header" style="height: 500px, width: 700px"/>
+ <p align="center"> <img src="./Banner_small.jpg" alt="Header" style="height: 500px, width: 600px"/> </p>
 </a>
 
 <p align="center"> Hello There , I'm Subhajit <img src="./GOWK.png" style="width: 90px;"/> </p>
