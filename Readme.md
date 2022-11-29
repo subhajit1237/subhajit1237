@@ -1,7 +1,7 @@
 <a href="https://github.com/subhajit1237">
  <p align="center"> <img src="./Banner_small.jpg" alt="Header" style="height: 500px, width: 600px"/> </p>
 </a>
-
+  <p align="center"> <img src="https://discord.c99.nl/widget/theme-2/423194865149673502.png" alt="Header" style="height: 500px, width: 600px"/> </p>
 <p align="center"> Hello There , I'm Subhajit <img src="./GOWK.png" style="width: 90px;"/> </p>
 <p align="center"> Also known as Hawt Sauce </p>
 <br />
