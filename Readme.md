@@ -14,7 +14,7 @@
 	<br />
 <a href="https://www.linkedin.com/in/subhajit-das-827b5a200/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="subhajit-das-827b5a200" height="50" width="60" /></a>
 <a href="https://www.instagram.com/subha.it/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2017/02/Instagram-Logo.png" alt="subha.it" height="50" width="80" /></a>
-<a href="https://discord.gg/r8B7GF2amw" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fdiscord-logo%2F&psig=AOvVaw1PbF63fQYFTIdBOuvdLQMo&ust=1669838307038000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKDviciW1PsCFQAAAAAdAAAAABAJ" alt="discord" height="50" width="80" /></a>
+<a href="https://discord.gg/r8B7GF2amw" target="blank"><img align="center" src="https://i.pinimg.com/originals/01/b1/e4/01b1e436c03e167d3b2b466f75c184a1.png" alt="discord-logo" height="50" width="80" /></a>
 <p align="center"> <img src="https://discord.c99.nl/widget/theme-3/516636564135346179.png" alt="Header" style="height: 500px, width: 600px"/> </p>
 
 </p>
