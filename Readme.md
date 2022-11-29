@@ -1,7 +1,7 @@
 <a href="https://github.com/subhajit1237">
  <p align="center"> <img src="./Banner_small.jpg" alt="Header" style="height: 500px, width: 600px"/> </p>
 </a>
-  <p align="center"> <img src="https://discord.c99.nl/widget/theme-2/423194865149673502.png" alt="Header" style="height: 500px, width: 600px"/> </p>
+  
 <p align="center"> Hello There , I'm Subhajit <img src="./GOWK.png" style="width: 90px;"/> </p>
 <p align="center"> Also known as Hawt Sauce </p>
 <br />
@@ -14,6 +14,9 @@
 	<br />
 <a href="https://www.linkedin.com/in/subhajit-das-827b5a200/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="subhajit-das-827b5a200" height="50" width="60" /></a>
 <a href="https://www.instagram.com/subha.it/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2017/02/Instagram-Logo.png" alt="subha.it" height="50" width="80" /></a>
+<a href="https://discord.gg/r8B7GF2amw" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fdiscord-logo%2F&psig=AOvVaw1PbF63fQYFTIdBOuvdLQMo&ust=1669838307038000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKDviciW1PsCFQAAAAAdAAAAABAJ" alt="discord" height="50" width="80" /></a>
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-2/423194865149673502.png" alt="Header" style="height: 500px, width: 600px"/> </p>
+
 </p>
 
 ## &#x1f4c8; Contribution Graph
